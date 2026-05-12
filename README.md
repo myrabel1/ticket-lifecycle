@@ -40,7 +40,7 @@ As the agent "Myra", this ticket basically states that osTicket has just been in
 
 </p>
 <p>
-This tickt shows that an end user has created a ticket stating the 'online system is down'. Initially, an employee (agent / Johnnie), received this tickt and because he only had "read-only" access, he was only able to write an internal coofice comment stating "Johnnie was here". When the admin Susie logged in, she was able to elevate Johnnie's permissions and was able to elevate and make appropriate changes to the ticket. Change Priority from normal to emergency, SLA from default to Sev-A, help topic from general inquiry to business critical. Finally, he was able to escalate this ticket to Susie Smith in SysAdmins who was able to investigate the cause of and resolve this ticket in a timely manner per the SLA requirements
+This tickt shows that an end user has created a ticket stating the 'online system is down'. Initially, an employee (agent / Johnnie), received this ticket and because he only had "read-only" access, he was only able to write an internal office comment stating "Johnnie was here". When the admin Susie logged in, she was able to elevate Johnnie's permissions and he was then able to make appropriate changes to the ticket. Change Priority from normal to emergency, SLA from default to Sev-A, Help Topic from general inquiry to business critical. Finally, he was able to escalate this ticket to Susie Smith in SysAdmins (administrator) who was able to investigate the cause of and resolve this ticket in a timely manner per the SLA requirements.
 </p>
 <br />
 
@@ -49,6 +49,6 @@ This tickt shows that an end user has created a ticket stating the 'online syste
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+osTickets are widely used as a way to submit problems. End users (customers) can submit them for a variety of reasons and agents are the ones to manage and resolve the tickets. Agents can submit tickets on behalf of endusers. This is a helpful way to track tickets and to keep endusers updated on the progress of their issue. osTickets are user friendly with tabs that help monitor the lifecycle of a ticket until it's been resolved.
 </p>
 <br />
