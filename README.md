@@ -32,8 +32,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+As the agent "Myra", this ticket basically states that osTicket has just been installed. What's useful to note on this subsequent tickets is the time it was created. This will become useful when numerous tickets are received of similar levels of priority. If all tickets are 'normal' in priority, observing the time limits guesswork which tickets should be done first. Otherwise, severity levels take priority.
 <br />
 
 <p>
